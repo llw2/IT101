@@ -5,3 +5,6 @@
 Lori is my name
 
 **THIS is bold**
+
+
+this is an *italic*
