@@ -3,3 +3,5 @@
 ## this is a subheader
 
 Lori is my name
+
+**THIS is bold**
